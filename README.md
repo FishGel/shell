@@ -13,3 +13,6 @@ Java Dump脚本
 ```
 /opt/taobao/java/bin/jmap -dump:live,format=b,file=heap-`date +%Y%m%d%H%M`.bin `pgrep -u admin java`
 ```
+
+==============
+以下自己追加的
